@@ -1,0 +1,357 @@
+使用设备: cpu
+CPU 核心数: 16, 将使用全部核心（不限制线程）
+Files already downloaded and verified
+Files already downloaded and verified
+训练轮数: 30 轮
+
+Epoch  1 | Batch    0/391 | Loss: 2.4935 | Acc: 11.72%
+Epoch  1 | Batch   50/391 | Loss: 2.0303 | Acc: 15.92%
+Epoch  1 | Batch  100/391 | Loss: 1.8365 | Acc: 21.34%
+Epoch  1 | Batch  150/391 | Loss: 1.7516 | Acc: 24.55%
+Epoch  1 | Batch  200/391 | Loss: 1.6651 | Acc: 26.87%
+Epoch  1 | Batch  250/391 | Loss: 1.7388 | Acc: 28.69%
+Epoch  1 | Batch  300/391 | Loss: 1.6166 | Acc: 30.35%
+Epoch  1 | Batch  350/391 | Loss: 1.4583 | Acc: 31.84%
+Epoch  1 测试准确率: 41.96%
+
+💾 新最佳模型保存 (准确率: 41.96%)
+
+Epoch  2 | Batch    0/391 | Loss: 1.6388 | Acc: 39.84%
+Epoch  2 | Batch   50/391 | Loss: 1.4663 | Acc: 42.10%
+Epoch  2 | Batch  100/391 | Loss: 1.4874 | Acc: 42.94%
+Epoch  2 | Batch  150/391 | Loss: 1.5685 | Acc: 44.01%
+Epoch  2 | Batch  200/391 | Loss: 1.4976 | Acc: 44.69%
+Epoch  2 | Batch  250/391 | Loss: 1.6100 | Acc: 45.47%
+Epoch  2 | Batch  300/391 | Loss: 1.2540 | Acc: 46.02%
+Epoch  2 | Batch  350/391 | Loss: 1.4270 | Acc: 46.62%
+Epoch  2 测试准确率: 48.77%
+
+💾 新最佳模型保存 (准确率: 48.77%)
+
+Epoch  3 | Batch    0/391 | Loss: 1.3684 | Acc: 50.78%
+Epoch  3 | Batch   50/391 | Loss: 1.3048 | Acc: 52.33%
+Epoch  3 | Batch  100/391 | Loss: 1.1339 | Acc: 53.82%
+Epoch  3 | Batch  150/391 | Loss: 1.0815 | Acc: 54.33%
+Epoch  3 | Batch  200/391 | Loss: 1.1270 | Acc: 54.78%
+Epoch  3 | Batch  250/391 | Loss: 0.8997 | Acc: 55.62%
+Epoch  3 | Batch  300/391 | Loss: 1.0990 | Acc: 56.48%
+Epoch  3 | Batch  350/391 | Loss: 1.0139 | Acc: 57.05%
+Epoch  3 测试准确率: 60.48%
+
+💾 新最佳模型保存 (准确率: 60.48%)
+
+Epoch  4 | Batch    0/391 | Loss: 1.1296 | Acc: 60.94%
+Epoch  4 | Batch   50/391 | Loss: 0.9914 | Acc: 62.70%
+Epoch  4 | Batch  100/391 | Loss: 1.0171 | Acc: 63.95%
+Epoch  4 | Batch  150/391 | Loss: 1.0745 | Acc: 64.06%
+Epoch  4 | Batch  200/391 | Loss: 0.8712 | Acc: 64.54%
+Epoch  4 | Batch  250/391 | Loss: 0.9520 | Acc: 64.83%
+Epoch  4 | Batch  300/391 | Loss: 0.9727 | Acc: 65.16%
+Epoch  4 | Batch  350/391 | Loss: 0.9417 | Acc: 65.65%
+Epoch  4 测试准确率: 65.33%
+
+💾 新最佳模型保存 (准确率: 65.33%)
+
+Epoch  5 | Batch    0/391 | Loss: 0.7847 | Acc: 72.66%
+Epoch  5 | Batch   50/391 | Loss: 0.9026 | Acc: 70.10%
+Epoch  5 | Batch  100/391 | Loss: 0.8393 | Acc: 70.44%
+Epoch  5 | Batch  150/391 | Loss: 0.8622 | Acc: 71.02%
+Epoch  5 | Batch  200/391 | Loss: 0.8467 | Acc: 71.39%
+Epoch  5 | Batch  250/391 | Loss: 0.7882 | Acc: 71.58%
+Epoch  5 | Batch  300/391 | Loss: 0.6143 | Acc: 71.94%
+Epoch  5 | Batch  350/391 | Loss: 0.6876 | Acc: 72.31%
+Epoch  5 测试准确率: 69.67%
+
+💾 新最佳模型保存 (准确率: 69.67%)
+
+Epoch  6 | Batch    0/391 | Loss: 0.8275 | Acc: 72.66%
+Epoch  6 | Batch   50/391 | Loss: 0.7111 | Acc: 76.64%
+Epoch  6 | Batch  100/391 | Loss: 0.4705 | Acc: 76.59%
+Epoch  6 | Batch  150/391 | Loss: 0.6117 | Acc: 76.53%
+Epoch  6 | Batch  200/391 | Loss: 0.5858 | Acc: 76.50%
+Epoch  6 | Batch  250/391 | Loss: 0.6954 | Acc: 76.33%
+Epoch  6 | Batch  300/391 | Loss: 0.7198 | Acc: 76.53%
+Epoch  6 | Batch  350/391 | Loss: 0.6768 | Acc: 76.72%
+Epoch  6 测试准确率: 69.36%
+
+Epoch  7 | Batch    0/391 | Loss: 0.6099 | Acc: 78.12%
+Epoch  7 | Batch   50/391 | Loss: 0.6486 | Acc: 78.58%
+Epoch  7 | Batch  100/391 | Loss: 0.6063 | Acc: 79.07%
+Epoch  7 | Batch  150/391 | Loss: 0.5141 | Acc: 79.19%
+Epoch  7 | Batch  200/391 | Loss: 0.5311 | Acc: 79.38%
+Epoch  7 | Batch  250/391 | Loss: 0.5436 | Acc: 79.45%
+Epoch  7 | Batch  300/391 | Loss: 0.5615 | Acc: 79.53%
+Epoch  7 | Batch  350/391 | Loss: 0.5307 | Acc: 79.42%
+Epoch  7 测试准确率: 76.90%
+
+💾 新最佳模型保存 (准确率: 76.90%)
+
+Epoch  8 | Batch    0/391 | Loss: 0.5558 | Acc: 78.91%
+Epoch  8 | Batch   50/391 | Loss: 0.5453 | Acc: 82.26%
+Epoch  8 | Batch  100/391 | Loss: 0.4046 | Acc: 81.89%
+Epoch  8 | Batch  150/391 | Loss: 0.4886 | Acc: 81.37%
+Epoch  8 | Batch  200/391 | Loss: 0.5482 | Acc: 81.44%
+Epoch  8 | Batch  250/391 | Loss: 0.6393 | Acc: 81.47%
+Epoch  8 | Batch  300/391 | Loss: 0.6733 | Acc: 81.32%
+Epoch  8 | Batch  350/391 | Loss: 0.6324 | Acc: 81.21%
+Epoch  8 测试准确率: 80.81%
+
+💾 新最佳模型保存 (准确率: 80.81%)
+
+Epoch  9 | Batch    0/391 | Loss: 0.3650 | Acc: 89.84%
+Epoch  9 | Batch   50/391 | Loss: 0.4801 | Acc: 82.40%
+Epoch  9 | Batch  100/391 | Loss: 0.4951 | Acc: 82.53%
+Epoch  9 | Batch  150/391 | Loss: 0.3610 | Acc: 82.53%
+Epoch  9 | Batch  200/391 | Loss: 0.3603 | Acc: 82.83%
+Epoch  9 | Batch  250/391 | Loss: 0.5443 | Acc: 82.90%
+Epoch  9 | Batch  300/391 | Loss: 0.5785 | Acc: 82.93%
+Epoch  9 | Batch  350/391 | Loss: 0.2933 | Acc: 82.92%
+Epoch  9 测试准确率: 82.01%
+
+💾 新最佳模型保存 (准确率: 82.01%)
+
+Epoch 10 | Batch    0/391 | Loss: 0.4375 | Acc: 82.03%
+Epoch 10 | Batch   50/391 | Loss: 0.4260 | Acc: 84.27%
+Epoch 10 | Batch  100/391 | Loss: 0.5225 | Acc: 84.27%
+Epoch 10 | Batch  150/391 | Loss: 0.3296 | Acc: 84.03%
+Epoch 10 | Batch  200/391 | Loss: 0.4703 | Acc: 83.98%
+Epoch 10 | Batch  250/391 | Loss: 0.4264 | Acc: 84.05%
+Epoch 10 | Batch  300/391 | Loss: 0.5141 | Acc: 84.03%
+Epoch 10 | Batch  350/391 | Loss: 0.3697 | Acc: 83.94%
+Epoch 10 测试准确率: 79.67%
+
+Epoch 11 | Batch    0/391 | Loss: 0.4559 | Acc: 85.94%
+Epoch 11 | Batch   50/391 | Loss: 0.5427 | Acc: 84.99%
+Epoch 11 | Batch  100/391 | Loss: 0.4637 | Acc: 84.83%
+Epoch 11 | Batch  150/391 | Loss: 0.6321 | Acc: 85.00%
+Epoch 11 | Batch  200/391 | Loss: 0.4950 | Acc: 84.86%
+Epoch 11 | Batch  250/391 | Loss: 0.4169 | Acc: 84.61%
+Epoch 11 | Batch  300/391 | Loss: 0.3396 | Acc: 84.71%
+Epoch 11 | Batch  350/391 | Loss: 0.3859 | Acc: 84.69%
+Epoch 11 测试准确率: 81.24%
+
+Epoch 12 | Batch    0/391 | Loss: 0.4012 | Acc: 85.94%
+Epoch 12 | Batch   50/391 | Loss: 0.3078 | Acc: 86.44%
+Epoch 12 | Batch  100/391 | Loss: 0.3473 | Acc: 86.53%
+Epoch 12 | Batch  150/391 | Loss: 0.3117 | Acc: 86.33%
+Epoch 12 | Batch  200/391 | Loss: 0.3475 | Acc: 86.13%
+Epoch 12 | Batch  250/391 | Loss: 0.4003 | Acc: 86.19%
+Epoch 12 | Batch  300/391 | Loss: 0.4263 | Acc: 86.02%
+Epoch 12 | Batch  350/391 | Loss: 0.4108 | Acc: 85.92%
+Epoch 12 测试准确率: 83.12%
+
+💾 新最佳模型保存 (准确率: 83.12%)
+
+Epoch 13 | Batch    0/391 | Loss: 0.2381 | Acc: 90.62%
+Epoch 13 | Batch   50/391 | Loss: 0.3727 | Acc: 87.44%
+Epoch 13 | Batch  100/391 | Loss: 0.4116 | Acc: 87.08%
+Epoch 13 | Batch  150/391 | Loss: 0.5378 | Acc: 86.91%
+Epoch 13 | Batch  200/391 | Loss: 0.3259 | Acc: 86.97%
+Epoch 13 | Batch  250/391 | Loss: 0.3824 | Acc: 86.99%
+Epoch 13 | Batch  300/391 | Loss: 0.4051 | Acc: 86.82%
+Epoch 13 | Batch  350/391 | Loss: 0.3333 | Acc: 86.86%
+Epoch 13 测试准确率: 83.04%
+
+Epoch 14 | Batch    0/391 | Loss: 0.2829 | Acc: 91.41%
+Epoch 14 | Batch   50/391 | Loss: 0.3560 | Acc: 88.08%
+Epoch 14 | Batch  100/391 | Loss: 0.2970 | Acc: 88.09%
+Epoch 14 | Batch  150/391 | Loss: 0.4391 | Acc: 87.76%
+Epoch 14 | Batch  200/391 | Loss: 0.2917 | Acc: 87.71%
+Epoch 14 | Batch  250/391 | Loss: 0.2522 | Acc: 87.83%
+Epoch 14 | Batch  300/391 | Loss: 0.4091 | Acc: 87.83%
+Epoch 14 | Batch  350/391 | Loss: 0.2817 | Acc: 87.78%
+Epoch 14 测试准确率: 84.84%
+
+💾 新最佳模型保存 (准确率: 84.84%)
+
+Epoch 15 | Batch    0/391 | Loss: 0.2855 | Acc: 92.97%
+Epoch 15 | Batch   50/391 | Loss: 0.3958 | Acc: 89.19%
+Epoch 15 | Batch  100/391 | Loss: 0.3080 | Acc: 89.32%
+Epoch 15 | Batch  150/391 | Loss: 0.2659 | Acc: 89.01%
+Epoch 15 | Batch  200/391 | Loss: 0.3220 | Acc: 88.88%
+Epoch 15 | Batch  250/391 | Loss: 0.3749 | Acc: 88.64%
+Epoch 15 | Batch  300/391 | Loss: 0.2388 | Acc: 88.64%
+Epoch 15 | Batch  350/391 | Loss: 0.2666 | Acc: 88.59%
+Epoch 15 测试准确率: 82.68%
+
+Epoch 16 | Batch    0/391 | Loss: 0.2465 | Acc: 93.75%
+Epoch 16 | Batch   50/391 | Loss: 0.2784 | Acc: 89.78%
+Epoch 16 | Batch  100/391 | Loss: 0.3692 | Acc: 89.25%
+Epoch 16 | Batch  150/391 | Loss: 0.2806 | Acc: 89.36%
+Epoch 16 | Batch  200/391 | Loss: 0.3989 | Acc: 89.37%
+Epoch 16 | Batch  250/391 | Loss: 0.2556 | Acc: 89.31%
+Epoch 16 | Batch  300/391 | Loss: 0.3259 | Acc: 89.24%
+Epoch 16 | Batch  350/391 | Loss: 0.3323 | Acc: 89.12%
+Epoch 16 测试准确率: 85.85%
+
+💾 新最佳模型保存 (准确率: 85.85%)
+
+Epoch 17 | Batch    0/391 | Loss: 0.1928 | Acc: 92.97%
+Epoch 17 | Batch   50/391 | Loss: 0.1748 | Acc: 90.35%
+Epoch 17 | Batch  100/391 | Loss: 0.3876 | Acc: 90.52%
+Epoch 17 | Batch  150/391 | Loss: 0.3221 | Acc: 90.30%
+Epoch 17 | Batch  200/391 | Loss: 0.2966 | Acc: 90.23%
+Epoch 17 | Batch  250/391 | Loss: 0.3279 | Acc: 90.19%
+Epoch 17 | Batch  300/391 | Loss: 0.2084 | Acc: 90.20%
+Epoch 17 | Batch  350/391 | Loss: 0.3323 | Acc: 90.22%
+Epoch 17 测试准确率: 85.09%
+
+Epoch 18 | Batch    0/391 | Loss: 0.1369 | Acc: 95.31%
+Epoch 18 | Batch   50/391 | Loss: 0.3228 | Acc: 90.82%
+Epoch 18 | Batch  100/391 | Loss: 0.2254 | Acc: 91.12%
+Epoch 18 | Batch  150/391 | Loss: 0.2082 | Acc: 91.40%
+Epoch 18 | Batch  200/391 | Loss: 0.2667 | Acc: 91.22%
+Epoch 18 | Batch  250/391 | Loss: 0.4606 | Acc: 91.04%
+Epoch 18 | Batch  300/391 | Loss: 0.4154 | Acc: 90.97%
+Epoch 18 | Batch  350/391 | Loss: 0.2460 | Acc: 91.05%
+Epoch 18 测试准确率: 86.67%
+
+💾 新最佳模型保存 (准确率: 86.67%)
+
+Epoch 19 | Batch    0/391 | Loss: 0.2710 | Acc: 89.84%
+Epoch 19 | Batch   50/391 | Loss: 0.2075 | Acc: 91.93%
+Epoch 19 | Batch  100/391 | Loss: 0.2596 | Acc: 91.99%
+Epoch 19 | Batch  150/391 | Loss: 0.2577 | Acc: 92.08%
+Epoch 19 | Batch  200/391 | Loss: 0.2297 | Acc: 92.14%
+Epoch 19 | Batch  250/391 | Loss: 0.2426 | Acc: 92.09%
+Epoch 19 | Batch  300/391 | Loss: 0.1852 | Acc: 91.98%
+Epoch 19 | Batch  350/391 | Loss: 0.1076 | Acc: 91.89%
+Epoch 19 测试准确率: 88.07%
+
+💾 新最佳模型保存 (准确率: 88.07%)
+
+Epoch 20 | Batch    0/391 | Loss: 0.2335 | Acc: 89.84%
+Epoch 20 | Batch   50/391 | Loss: 0.1327 | Acc: 93.08%
+Epoch 20 | Batch  100/391 | Loss: 0.2309 | Acc: 93.14%
+Epoch 20 | Batch  150/391 | Loss: 0.2283 | Acc: 92.99%
+Epoch 20 | Batch  200/391 | Loss: 0.1678 | Acc: 92.87%
+Epoch 20 | Batch  250/391 | Loss: 0.1076 | Acc: 92.90%
+Epoch 20 | Batch  300/391 | Loss: 0.1779 | Acc: 92.83%
+Epoch 20 | Batch  350/391 | Loss: 0.3145 | Acc: 92.79%
+Epoch 20 测试准确率: 88.79%
+
+💾 新最佳模型保存 (准确率: 88.79%)
+
+Epoch 21 | Batch    0/391 | Loss: 0.1778 | Acc: 92.19%
+Epoch 21 | Batch   50/391 | Loss: 0.1015 | Acc: 94.18%
+Epoch 21 | Batch  100/391 | Loss: 0.1624 | Acc: 94.09%
+Epoch 21 | Batch  150/391 | Loss: 0.1677 | Acc: 94.06%
+Epoch 21 | Batch  200/391 | Loss: 0.0759 | Acc: 93.84%
+Epoch 21 | Batch  250/391 | Loss: 0.1685 | Acc: 93.77%
+Epoch 21 | Batch  300/391 | Loss: 0.1432 | Acc: 93.75%
+Epoch 21 | Batch  350/391 | Loss: 0.2427 | Acc: 93.71%
+Epoch 21 测试准确率: 88.25%
+
+Epoch 22 | Batch    0/391 | Loss: 0.1794 | Acc: 94.53%
+Epoch 22 | Batch   50/391 | Loss: 0.3160 | Acc: 94.67%
+Epoch 22 | Batch  100/391 | Loss: 0.1496 | Acc: 94.59%
+Epoch 22 | Batch  150/391 | Loss: 0.1108 | Acc: 94.65%
+Epoch 22 | Batch  200/391 | Loss: 0.1467 | Acc: 94.65%
+Epoch 22 | Batch  250/391 | Loss: 0.2216 | Acc: 94.69%
+Epoch 22 | Batch  300/391 | Loss: 0.0779 | Acc: 94.66%
+Epoch 22 | Batch  350/391 | Loss: 0.1199 | Acc: 94.68%
+Epoch 22 测试准确率: 90.65%
+
+💾 新最佳模型保存 (准确率: 90.65%)
+
+Epoch 23 | Batch    0/391 | Loss: 0.1045 | Acc: 98.44%
+Epoch 23 | Batch   50/391 | Loss: 0.0720 | Acc: 95.80%
+Epoch 23 | Batch  100/391 | Loss: 0.1434 | Acc: 95.70%
+Epoch 23 | Batch  150/391 | Loss: 0.0377 | Acc: 95.75%
+Epoch 23 | Batch  200/391 | Loss: 0.1061 | Acc: 95.76%
+Epoch 23 | Batch  250/391 | Loss: 0.1915 | Acc: 95.66%
+Epoch 23 | Batch  300/391 | Loss: 0.0823 | Acc: 95.61%
+Epoch 23 | Batch  350/391 | Loss: 0.1396 | Acc: 95.65%
+Epoch 23 测试准确率: 91.66%
+
+💾 新最佳模型保存 (准确率: 91.66%)
+
+Epoch 24 | Batch    0/391 | Loss: 0.0471 | Acc: 99.22%
+Epoch 24 | Batch   50/391 | Loss: 0.1008 | Acc: 96.74%
+Epoch 24 | Batch  100/391 | Loss: 0.0695 | Acc: 96.85%
+Epoch 24 | Batch  150/391 | Loss: 0.0718 | Acc: 96.88%
+Epoch 24 | Batch  200/391 | Loss: 0.1311 | Acc: 96.82%
+Epoch 24 | Batch  250/391 | Loss: 0.0937 | Acc: 96.69%
+Epoch 24 | Batch  300/391 | Loss: 0.0824 | Acc: 96.69%
+Epoch 24 | Batch  350/391 | Loss: 0.0885 | Acc: 96.73%
+Epoch 24 测试准确率: 90.69%
+
+Epoch 25 | Batch    0/391 | Loss: 0.1292 | Acc: 96.88%
+Epoch 25 | Batch   50/391 | Loss: 0.0895 | Acc: 97.32%
+Epoch 25 | Batch  100/391 | Loss: 0.0508 | Acc: 97.41%
+Epoch 25 | Batch  150/391 | Loss: 0.0675 | Acc: 97.50%
+Epoch 25 | Batch  200/391 | Loss: 0.0843 | Acc: 97.50%
+Epoch 25 | Batch  250/391 | Loss: 0.1759 | Acc: 97.60%
+Epoch 25 | Batch  300/391 | Loss: 0.0534 | Acc: 97.56%
+Epoch 25 | Batch  350/391 | Loss: 0.0619 | Acc: 97.53%
+Epoch 25 测试准确率: 92.24%
+
+💾 新最佳模型保存 (准确率: 92.24%)
+
+Epoch 26 | Batch    0/391 | Loss: 0.0869 | Acc: 97.66%
+Epoch 26 | Batch   50/391 | Loss: 0.0339 | Acc: 98.02%
+Epoch 26 | Batch  100/391 | Loss: 0.0315 | Acc: 97.94%
+Epoch 26 | Batch  150/391 | Loss: 0.0817 | Acc: 98.01%
+Epoch 26 | Batch  200/391 | Loss: 0.0432 | Acc: 97.99%
+Epoch 26 | Batch  250/391 | Loss: 0.0742 | Acc: 97.97%
+Epoch 26 | Batch  300/391 | Loss: 0.0549 | Acc: 97.99%
+Epoch 26 | Batch  350/391 | Loss: 0.1347 | Acc: 98.02%
+Epoch 26 测试准确率: 92.42%
+
+💾 新最佳模型保存 (准确率: 92.42%)
+
+Epoch 27 | Batch    0/391 | Loss: 0.0871 | Acc: 96.88%
+Epoch 27 | Batch   50/391 | Loss: 0.0546 | Acc: 98.51%
+Epoch 27 | Batch  100/391 | Loss: 0.0582 | Acc: 98.52%
+Epoch 27 | Batch  150/391 | Loss: 0.0127 | Acc: 98.52%
+Epoch 27 | Batch  200/391 | Loss: 0.0213 | Acc: 98.54%
+Epoch 27 | Batch  250/391 | Loss: 0.0208 | Acc: 98.55%
+Epoch 27 | Batch  300/391 | Loss: 0.0400 | Acc: 98.59%
+Epoch 27 | Batch  350/391 | Loss: 0.0452 | Acc: 98.64%
+Epoch 27 测试准确率: 92.70%
+
+💾 新最佳模型保存 (准确率: 92.70%)
+
+Epoch 28 | Batch    0/391 | Loss: 0.0508 | Acc: 98.44%
+Epoch 28 | Batch   50/391 | Loss: 0.0567 | Acc: 98.81%
+Epoch 28 | Batch  100/391 | Loss: 0.0318 | Acc: 99.01%
+Epoch 28 | Batch  150/391 | Loss: 0.0461 | Acc: 99.00%
+Epoch 28 | Batch  200/391 | Loss: 0.0528 | Acc: 98.99%
+Epoch 28 | Batch  250/391 | Loss: 0.0254 | Acc: 99.01%
+Epoch 28 | Batch  300/391 | Loss: 0.0281 | Acc: 98.95%
+Epoch 28 | Batch  350/391 | Loss: 0.0265 | Acc: 98.92%
+Epoch 28 测试准确率: 93.01%
+
+💾 新最佳模型保存 (准确率: 93.01%)
+
+Epoch 29 | Batch    0/391 | Loss: 0.0519 | Acc: 99.22%
+Epoch 29 | Batch   50/391 | Loss: 0.0275 | Acc: 98.99%
+Epoch 29 | Batch  100/391 | Loss: 0.0637 | Acc: 99.08%
+Epoch 29 | Batch  150/391 | Loss: 0.0534 | Acc: 99.07%
+Epoch 29 | Batch  200/391 | Loss: 0.0621 | Acc: 99.04%
+Epoch 29 | Batch  250/391 | Loss: 0.0404 | Acc: 99.06%
+Epoch 29 | Batch  300/391 | Loss: 0.0515 | Acc: 99.10%
+Epoch 29 | Batch  350/391 | Loss: 0.0083 | Acc: 99.10%
+Epoch 29 测试准确率: 92.97%
+
+Epoch 30 | Batch    0/391 | Loss: 0.0260 | Acc: 99.22%
+Epoch 30 | Batch   50/391 | Loss: 0.0196 | Acc: 99.26%
+Epoch 30 | Batch  100/391 | Loss: 0.0829 | Acc: 99.26%
+Epoch 30 | Batch  150/391 | Loss: 0.0070 | Acc: 99.28%
+Epoch 30 | Batch  200/391 | Loss: 0.0152 | Acc: 99.29%
+Epoch 30 | Batch  250/391 | Loss: 0.0506 | Acc: 99.31%
+Epoch 30 | Batch  300/391 | Loss: 0.0243 | Acc: 99.29%
+Epoch 30 | Batch  350/391 | Loss: 0.0552 | Acc: 99.30%
+Epoch 30 测试准确率: 93.02%
+
+💾 新最佳模型保存 (准确率: 93.02%)
+
+
+========================================
+          训练结束 - 结果报告
+========================================
+总训练轮数: 30
+总耗时: 204.66 分钟
+最佳测试准确率: 93.02%
+模型权重: best_resnet18_cifar10.pth
+========================================
